@@ -1,4 +1,4 @@
-# BrainFuckÓïÑÔµÄ±àÒëÆ÷
-# BrainFuck language compiler
-## ÕâÊÇÒ»¸öÓÃCÓïÑÔĞ´µÄ±àÒëÆ÷£¬Ëü¿ÉÒÔÔËĞĞÄãµÄBrainFuck´úÂë¡£
-## This is a C compiler written in C, it can run your BrainFuck code.
+# BrainFuckè¯­è¨€çš„ç¼–è¯‘å™¨
+# BrainFuck language interpreter
+## è¿™æ˜¯ä¸€ä¸ªç”¨Cè¯­è¨€å†™çš„ç¼–è¯‘å™¨ï¼Œå®ƒå¯ä»¥è¿è¡Œä½ çš„BrainFuckä»£ç ã€‚
+## This is a C interpreter written in C, it can run your BrainFuck code.
